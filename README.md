@@ -2,7 +2,7 @@
 
 - 📷 I am currently looking for an opportunity to work on exciting projects. where I can apply my acquired knowledge.
 - 🔭 I’ve worked on python projects such as maze solving turtlebot, OpenCV face and sign detection, turtlebot vollyball.
-- 🚗 I've experience with trajectory planning as well as algorithms for self-driving vehicles.
+- 🚗 I've experience with path planning, trajectory planning, navigation stack, mapping, various SLAM algorithms and algorithms for self-driving vehicles.
 - 🌱 I’m currently improving my ROS skills with the following projects:
 
 | JetBot:-
