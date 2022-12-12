@@ -5,13 +5,13 @@
 - 🚗 I've experience with trajectory planning as well as algorithms for self-driving vehicles.
 - 🌱 I’m currently improving my ROS skills with the following projects:
 
-| JetBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) | Gazebo Simulation | RViz |
+| JetBot [![image](https://img.shields.io/github/stars/ros-mobile-robots/diffbot?style=social)](https://github.com/ros-mobile-robots/diffbot) |
 |:-------:|:-----------------:|:----:|
-|  (https://github.com/urvashiba/jetbotnavigation-RoPro) | (https://github.com/urvashiba/jetbotnavigation-RoPro.git) |
+|  (https://github.com/urvashiba/jetbotnavigation-RoPro) |
 
 - 📫 How to reach me: 
 
-  [![Linkedin: UrvashibaParmar](https://img.shields.io/badge/-franzpucher-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/franzpucher/)](https://www.linkedin.com/in/urvashiba-parmar/)
+  [![Linkedin: UrvashibaParmar](https://img.shields.io/badge/-urvashiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashiba-parmar/)](https://www.linkedin.com/in/urvashiba-parmar/)
   ![GitHub followers](https://img.shields.io/github/followers/urvashiba?label=Follow&style=social)
   
 ![](https://visitor-badge.glitch.me/badge?page_id=urvashiba.urvashiba)
