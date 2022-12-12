@@ -5,8 +5,7 @@
 - 🚗 I've experience with trajectory planning as well as algorithms for self-driving vehicles.
 - 🌱 I’m currently improving my ROS skills with the following projects:
 
-| JetBot
-|:-------:|:-----------------:|:----:|
+| JetBot:-
 |  (https://github.com/urvashiba/jetbotnavigation-RoPro) |
 
 - 📫 How to reach me: 
