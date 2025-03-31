@@ -1,33 +1,18 @@
-### Hi there, my name is Urvashiba 👋
+# 👋 Hi, I'm Urvashiba Parmar  
 
-- 📷 I am currently looking for an opportunity to work on interesting projects. where I can apply my acquired knowledge
-- 🔭 I’ve worked on python projects such as maze solving turtlebot, OpenCV face and sign detection, turtlebot vollyball.
-- 🚗 I've experience with path planning, trajectory planning, navigation stack, mapping, various SLAM algorithms and algorithms for self-driving vehicles.
-- 🌱 I’m currently improving my ROS skills with the following projects:
+AI & Robotics Engineer with expertise in **computer vision, deep learning, and autonomous systems**. I specialize in **real-time object detection, sensor integration, and AI-driven perception** for robotics and automotive applications.  
 
-| JetBot:-
-|  (https://github.com/urvashiba/jetbotnavigation-RoPro) |
+🔹 **Tech Stack**: Python, C++, PyTorch, TensorFlow, OpenCV, ROS2, PCL, Git, CI/CD  
+🔹 **Projects**: AI-powered object detection, autonomous navigation with LiDAR & Camera fusion, 3D perception for robotics  
 
-- 📫 How to reach me: 
+📂 Recent Projects:
+🚗 **High-Performance Object Detection**: Developed an AI-powered safety system for automotive applications (Audi AG) with 98% accuracy and 11ms latency.
 
-  [![Linkedin: UrvashibaParmar](https://img.shields.io/badge/-urvashiba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/urvashiba-parmar/)](https://www.linkedin.com/in/urvashiba-parmar/)
-  ![GitHub followers](https://img.shields.io/github/followers/urvashiba?label=Follow&style=social)
-  
-![](https://visitor-badge.glitch.me/badge?page_id=urvashiba.urvashiba)
+🤖 **Autonomous Navigation & SLAM**: Built an intelligent AMR using LiDAR & Camera fusion for mapless navigation.
 
-<!--
-**urvashiba/urvashiba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **AI-Powered 3D Perception**: Integrated YOLOv8 with Point Cloud Library (PCL) to enhance scene understanding in autonomous systems.
+**Ongoing project**: I am working on a touchless mousepad with OSK capability to type and search without touching the laptop. stay tuned, the project will be available shortly.
 
-![Waka Readme](https://github.com/urvashiba/urvashiba/workflows/Waka%20Readme/badge.svg)
+📌 **LinkedIn**: [linkedin.com/in/urvashiba-parmar](https://linkedin.com/in/urvashiba-parmar)  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Always open to collaboration and new challenges! 🚀
