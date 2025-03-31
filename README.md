@@ -1,9 +1,6 @@
 # 👋 Hi, I'm Urvashiba Parmar  
 
-AI & Robotics Engineer with expertise in **computer vision, deep learning, and autonomous systems**. I specialize in **real-time object detection, sensor integration, and AI-driven perception** for robotics and automotive applications.  
-
-🔹 **Tech Stack**: Python, C++, PyTorch, TensorFlow, OpenCV, ROS2, PCL, Git, CI/CD  
-🔹 **Projects**: AI-powered object detection, autonomous navigation with LiDAR & Camera fusion, 3D perception for robotics  
+AI & Robotics Engineer with expertise in **computer vision, deep learning and autonomous systems**. I specialize in **real-time object detection, sensor integration and AI-driven perception** for robotics and automotive applications.  
 
 📂 Recent Projects:
 🚗 **High-Performance Object Detection**: Developed an AI-powered safety system for automotive applications (Audi AG) with 98% accuracy and 11ms latency.
