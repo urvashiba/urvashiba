@@ -3,6 +3,8 @@
 AI & Robotics Engineer with expertise in **computer vision, deep learning and autonomous systems**. I specialize in **real-time object detection, sensor integration and AI-driven perception** for robotics and automotive applications.  
 
 📂 Recent Projects:
+
+
 🚗 **High-Performance Object Detection**: Developed an AI-powered safety system for automotive applications (Audi AG) with 98% accuracy and 11ms latency.
 
 🤖 **Autonomous Navigation & SLAM**: Built an intelligent AMR using LiDAR & Camera fusion for mapless navigation.
