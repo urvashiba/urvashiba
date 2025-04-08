@@ -15,4 +15,4 @@ AI & Robotics Engineer with expertise in **computer vision, deep learning and au
 
 📌 **LinkedIn**: [linkedin.com/in/urvashiba-parmar](https://linkedin.com/in/urvashiba-parmar)  
 
-Always open to collaboration and new challenges! 🚀
+Always open to collaboration and new challenges!
