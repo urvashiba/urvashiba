@@ -6,7 +6,6 @@ AI & Robotics Engineer with expertise in **computer vision, deep learning, and a
 - 🌱 I’m currently learning advanced reinforcement learning techniques.
 - 👯 I’m looking to collaborate on innovative AI and robotics projects.
 - 💬 Ask me about anything related to AI, robotics, and autonomous systems.
-- 📫 How to reach me: [LinkedIn](https://linkedin.com/in/urvashiba-parmar)
 
 ## 📂 Recent Projects
 ### 🚗 High-Performance Object Detection
