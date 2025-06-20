@@ -18,3 +18,6 @@ AI & Robotics Engineer with expertise in **computer vision, deep learning and au
 Always open to collaboration and new challenges!
 
 ![](https://komarev.com/ghpvc/?username=urvashiba&color=ff69b4)
+
+![GitHub followers](https://img.shields.io/github/followers/urvashiba?style=social)
+![GitHub stars](https://img.shields.io/github/stars/urvashiba?style=social)
